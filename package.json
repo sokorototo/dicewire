@@ -1,0 +1,15 @@
+{
+  "name": "dicewire",
+  "version": "0.1.2",
+  "description": "The dicewire dictionary reformatted as .ini and .json",
+  "main": "extras/recompile.js",
+  "keywords": [
+    "dicewirejs",
+    "dicewire",
+    "password",
+    "dictionary",
+    "database"
+  ],
+  "author": "Newton Toto",
+  "license": "ISC"
+}
