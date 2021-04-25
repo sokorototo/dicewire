@@ -1,6 +1,6 @@
 {
   "name": "dicewire",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "The dicewire dictionary reformatted as .ini and .json",
   "main": "extras/recompile.js",
   "keywords": [
@@ -10,6 +10,7 @@
     "dictionary",
     "database"
   ],
+  "files": ["./dtb", "./README.md", "./package.json"],
   "author": "Newton Toto",
   "license": "ISC"
 }
